@@ -1,0 +1,62 @@
+[
+  {
+    "start": 0.12,
+    "end": 2.531,
+    "text": "Antes de terminar, revisa tres cosas."
+  },
+  {
+    "start": 2.731,
+    "end": 5.163,
+    "text": "¿Tu servicio es claro y tiene respaldo?"
+  },
+  {
+    "start": 5.363,
+    "end": 8.029,
+    "text": "¿Tu mensaje al cliente es útil y respetuoso?"
+  },
+  {
+    "start": 8.229,
+    "end": 13.52,
+    "text": "¿Tu revisión de IA corrige una afirmación sin respaldo y explica por qué?"
+  },
+  {
+    "start": 13.72,
+    "end": 16.707,
+    "text": "Asigna cero, uno o dos puntos a cada criterio."
+  },
+  {
+    "start": 16.907,
+    "end": 21.92,
+    "text": "Cero significa que falta, uno que requiere revisión y dos que está claro y respaldado."
+  },
+  {
+    "start": 22.12,
+    "end": 24.744,
+    "text": "Corrige cualquier criterio por debajo de dos."
+  },
+  {
+    "start": 24.944,
+    "end": 28.187,
+    "text": "La puntuación es retroalimentación, no un certificado."
+  },
+  {
+    "start": 28.387,
+    "end": 32.653,
+    "text": "Después elige una acción y una fecha dentro de los próximos treinta días."
+  },
+  {
+    "start": 32.853,
+    "end": 36.075,
+    "text": "Revisa tu avance en los días siete, catorce y treinta."
+  },
+  {
+    "start": 36.275,
+    "end": 39.048,
+    "text": "Descarga la ficha antes de cerrar la página."
+  },
+  {
+    "start": 39.248,
+    "end": 42.704,
+    "text": "Tu siguiente paso vale más que un primer borrador perfecto."
+  }
+]

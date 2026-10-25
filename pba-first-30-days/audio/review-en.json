@@ -1,0 +1,62 @@
+[
+  {
+    "start": 0.12,
+    "end": 2.275,
+    "text": "Before you finish, review three things."
+  },
+  {
+    "start": 2.475,
+    "end": 4.437,
+    "text": "Is your service clear and supported?"
+  },
+  {
+    "start": 4.637,
+    "end": 7.325,
+    "text": "Is your client message useful and respectful?"
+  },
+  {
+    "start": 7.525,
+    "end": 11.557,
+    "text": "Did your AI review correct an unsupported claim and explain why?"
+  },
+  {
+    "start": 11.757,
+    "end": 14.104,
+    "text": "Give each item zero, one or two points."
+  },
+  {
+    "start": 14.304,
+    "end": 18.656,
+    "text": "Zero means missing, one means revise and two means clear and supported."
+  },
+  {
+    "start": 18.856,
+    "end": 20.563,
+    "text": "Revise any item below two."
+  },
+  {
+    "start": 20.763,
+    "end": 23.109,
+    "text": "The score is feedback, not a certificate."
+  },
+  {
+    "start": 23.309,
+    "end": 26.808,
+    "text": "Then choose one action and a date within the next thirty days."
+  },
+  {
+    "start": 27.008,
+    "end": 30.101,
+    "text": "Check your progress on days seven, fourteen and thirty."
+  },
+  {
+    "start": 30.301,
+    "end": 33.203,
+    "text": "Download your action map before closing the page."
+  },
+  {
+    "start": 33.403,
+    "end": 36.496,
+    "text": "Your next step matters more than a perfect first draft."
+  }
+]
